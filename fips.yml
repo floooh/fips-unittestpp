@@ -1,0 +1,9 @@
+#
+# fips-unittestpp
+#
+---
+exports:
+    header-dirs: [ . ]
+    modules:
+        unittestpp: UnitTest++
+
